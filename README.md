@@ -1,5 +1,5 @@
 # Style-Transfer
-## To run this project, you need to have Python, Tensorflow installed
+To run this project, you need to have Python, Tensorflow installed
 ## Please follow these links to download tensorflow 
 ## Windows  - https://www.tensorflow.org/install/source_windows
 ## Linux/ MacOS - https://www.tensorflow.org/install/source
